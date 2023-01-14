@@ -13,7 +13,7 @@
 }
 
 .star-container i {
-    color: #EA322E;
+    color: #EA3;
     font-size: 12px;
     margin-right: 6px;
 }
@@ -30,7 +30,7 @@
 }
 
 .interested-container i {
-    color: #EA322E;
+    color: #EA3;
     font-size: 20px;
     cursor: pointer;
 }
@@ -55,7 +55,7 @@
 }
 
 .property-address {
-    color: #6f6f6f;
+    color: #6f6f;
     font-size: 16px;
     padding-bottom: 5px;
 }
